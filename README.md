@@ -1,4 +1,4 @@
-# Stairway to Nowhere
+# Stairway to Nowhere Mobile Game
 
 My second mobile game created with Corona SDK.
 
